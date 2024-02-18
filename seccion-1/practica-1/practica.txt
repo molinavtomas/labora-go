@@ -1,0 +1,37 @@
+¿Cuál es la diferencia entre contenido de una variable y nombre de la misma?
+El contenido de una variable es un dato, el nombre de la misma es un identificador.
+
+¿Cuál es la diferencia entre una variable, una constante? ¿Que tienen en común? ¿y que relación tiene con un literal? 
+Una variable es un dato, con un identificador ya sea un nombre, que se guarda en un espacio con cierta direccion de memoria. Una constante, es 
+una variable de la que no se puede modificar el dato. La relacion con un literal es que se declara el dato en la variable/constante de una 
+manera directa y habilita el uso de operadores.
+
+¿En qué consiste una expresión?
+En el uso de variables, constantes, literales, operadores aritmeticos y hasta llamadas a funciones
+
+
+Complete los huecos
+    - Los operadores pueden ser utilizados en la construcción de ________(literales), que devuelven un único valor.
+    - Las expresiones están presentes en casi todas las __________()
+    - El siguiente fragmento de código es un ejemplo de una expresión ____________(aritmetica).
+        
+        1 * 2 * 3
+        
+    - Las sentencias para el intérprete/compilador son más o menos equivalentes a las _______(palabras) en el lenguaje natural para los humanos.
+
+    
+    
+¿Qué elementos aparecen en una asignación?
+Debe aparecer el operador de asignacion "="
+
+6. Haga, por favor, un seguimiento de las siguientes asignaciones, escribiendo el valor que va asumiendo la variable involucrada en cada asignación.
+
+X ← 0 (X=0)
+
+X ← X + 4 (X=4)
+
+X ← X + X – X * X (X=-8)
+
+X ← X % 4 (x = 0)
+
+X ← (x + 4) / 2 (X= 2)
